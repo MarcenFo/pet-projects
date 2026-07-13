@@ -1,2 +1,2 @@
 # pet-projects
-My pet-projects
+My Data Analytic projects
